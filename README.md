@@ -29,4 +29,5 @@ There are a few examples in [examples.py](./examples.py).
 
 ## Similar projects
 Python 2 : https://github.com/vishnubob/snowflake  
-Rust, multithreaded: https://github.com/necocen/snowflake
+Rust, multithreaded: https://github.com/necocen/snowflake  
+OpenGL fragment shader: https://www.shadertoy.com/view/43tcRN
